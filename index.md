@@ -30,7 +30,7 @@ My GitHub page is http://github.com/Sarah367.
     succesfully write a function that could loop through all the scores, eliminate 
     the highest/lowest scores, and then calculate the average score. 
 
-Lab 10
+* Lab 10
     
     The last favorite lab of mine was Lab 10, part 2. I enjoyed this lab because
     I learned how to search through an array and return the index where a specific
